@@ -66,7 +66,7 @@ const userProfile = ({profile,posts}: Props) => {
             </p>
           </div>
         </div>
-    ))};
+    ))}
 
   </div>
 </div>
