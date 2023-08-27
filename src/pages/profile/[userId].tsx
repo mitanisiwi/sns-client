@@ -70,7 +70,7 @@ const userProfile = ({profile,posts}: Props) => {
 
   </div>
 </div>
-  );
+  )
 };
 
 export default userProfile;
